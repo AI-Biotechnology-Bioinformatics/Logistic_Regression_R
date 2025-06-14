@@ -4,7 +4,7 @@ It uses the sigmoid(logit) function to map predicted values between 0 and 1, hen
 Logistic Regression identifies a linear boundary that separates two classes. The sigmoid function then maps any real-valued input to a value between 0 and 1, which can be interpreted as a probability. If the predicted probability is greater than 0.5, the observation is classified as 1 (e.g., diseased); otherwise, it is classified as 0 (e.g., healthy).
 
 To perform logistic regression in R, use the glm() function with family = "binomial": for binary classification task.
-> **Watch the full step-by-step tutorial** → [Click Here]() ,  
+> **Watch the full step-by-step tutorial** → [Click Here](https://www.linkedin.com/feed/update/urn:li:activity:7339568204693811200) ,  
 > **Download the → [R Script](https://github.com/AI-Biotechnology-Bioinformatics/Logistic_Regression_R/blob/main/Logistic_Regression.R)** ,     
 > **Follow the below steps to perform Logistic Regression in R.**
 
